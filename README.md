@@ -18,8 +18,8 @@ hbdddyakkk
   </div>
   <div class="back">
     <div class="letter">
-			<p>I hope your day is amazing.</p><p>From Dzarel </p>
-				<p>Happy Birthday Sayang❤️‍🩹</p>
+			<p>I hope your day is amazing.</p><p>From nayyyy </p>
+				<p>Happy Birthday Atinnn❤️‍🩹</p>
 
 	<div class="box">
 		<div class="cake">
